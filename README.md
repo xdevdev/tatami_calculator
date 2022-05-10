@@ -1,1 +1,1 @@
-# tatami_calculator
+# Tatami Calculator
